@@ -1,3 +1,5 @@
+//https://github.com/aellopos/Kurz-JS-1/blob/main/solution/lekce-06.md#z%C3%A1kladn%C3%AD-validace
+
 console.log(validator.isEmail('krejcova.barbora96@gmail.com'));
 console.log(validator.isCreditCard('4125010001000208'));
 
